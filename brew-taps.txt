@@ -1,0 +1,2 @@
+derailed/k9s
+homebrew/services
